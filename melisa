@@ -15,7 +15,7 @@ https://stream.hownetwork.xyz/yyy/john-wick-chapter-2-2017-2-bluray/7/480.m3u8
 #KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
 https://stream.hownetwork.xyz/yyy/john-wick-chapter-3-parabellum-2019-bluray/3/480.m3u8
 
-#EXTINF:-1 tvg-id="ts632" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/John_Wick_-_Chapter_4_promotional_poster.jpg/220px-John_Wick_-_Chapter_4_promotional_poster.jpg" group-title="VOD 2024",John Wick: Chapter 3
+#EXTINF:-1 tvg-id="ts632" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/John_Wick_-_Chapter_4_promotional_poster.jpg/220px-John_Wick_-_Chapter_4_promotional_poster.jpg" group-title="VOD 2024",John Wick: Chapter 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fc1ae9870d9f413395b4d29f76dac8d:9ec077feb1d763ce2e4662ecbb06404f
 https://stream.hownetwork.xyz/yyy/john-wick-chapter-4-2023-bluray/8/480.m3u8
